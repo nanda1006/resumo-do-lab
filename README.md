@@ -1,5 +1,6 @@
 # resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+
  O que entendi desse negócio de SLA no Azure. Pra mim, é como se fosse um trato, um combinado que a Microsoft faz com a gente quando usamos as paradas deles na nuvem.
 
 A principal coisa do SLA é garantir que o serviço vai ficar ligado, funcionando, o máximo de tempo possível. Eles até mostram isso com uns números em porcentagem, tipo 99,9%. Quanto mais "9" tem, menos tempo a coisa pode dar pau.
